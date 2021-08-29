@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ibarraXorlando
+- 👋 Hi, I’m @IXOrlando
 - 👀 I’m interested in learning programming and web desing like a pro
 - 🌱 I’m currently learning web design and programming basics
 - 💞️ I’m looking to collaborate on web projects
